@@ -12,7 +12,7 @@ int main() {
     scanf("%f", &width);
 
     // Calculate the area
-    area = length * width;
+    area   = length * width;
 
     // Display the result
     printf("The area of the rectangle is: %.2f\n", area);
